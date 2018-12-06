@@ -2,4 +2,4 @@
 This repo does this.
 
 ## Master Branch
-This is the master branch. Do stuff. More stuff.
+This is the master branch. Do stuff.
